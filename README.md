@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @blvckscvle23
-- 👀 I’m interested in fintech
-- 🌱 I’m currently learning python
+- 👋 Hi, I’m @Kobe
+- 👀 I’m interested in all things fintech 
+- 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on fintech projects
 - 📫 How to reach me kkowusukwarteng@gmail.com
 
